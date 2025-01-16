@@ -6,6 +6,11 @@ const mainCont = document.querySelector(".main-cont");
 const allpriorityColors = document.querySelectorAll(".priority-color");
 
 let ticketsArr = [];
+
+// if the ticket arr is empty and if the tickets array is not empty
+
+
+
 console.log(ticketsArr);
 
 let toolBoxColors = document.querySelectorAll(".color");
